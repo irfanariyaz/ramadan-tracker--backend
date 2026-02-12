@@ -1,0 +1,16 @@
+venv/
+.venv/
+.venv-workers/
+static/
+__pycache__/
+*.db
+.env
+.git/
+.wrangler/
+node_modules/
+python_modules/
+uv.lock
+pyproject.toml
+wrangler.toml
+requirements.txt.old
+#! /
